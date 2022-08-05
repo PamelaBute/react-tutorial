@@ -6,11 +6,11 @@ const Navbar = () => {
                 <a href="/">Home</a>
                 <a href="/create" style= {{
                     color: "white",
-                    backgroundColor: '#f1356',
+                    backgroundColor: '#f1356d',
                     boarderRadius: '8px'
                 }}>New Blog </a>
             </div>
-        </nav>cx
+        </nav>
     );
 }
 export default Navbar;
